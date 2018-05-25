@@ -3,10 +3,10 @@
  {
     "ALL_IN_ONE_VIDEO": [
         {
-            "cid": "1",
-            "category_name": "Animation",
-            "category_image": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/63095_Animation.jpg",
-            "category_image_thumb": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/thumbs/63095_Animation.jpg"
+            "cid": "videothumbnailb",
+            "category_name": "كبور و حبيب",
+            "category_image": "https://i.ytimg.com/vi/c-v5_VZKYmY/maxresdefault.jpg",
+            "category_image_thumb": "https://i.ytimg.com/vi/c-v5_VZKYmY/maxresdefault.jpg"
         },
         {
             "cid": "2",
