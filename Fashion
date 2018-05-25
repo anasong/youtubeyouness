@@ -1,0 +1,36 @@
+ 
+	 
+ {
+    "ALL_IN_ONE_VIDEO": [
+        {
+            "cid": "1",
+            "category_name": "Animation",
+            "category_image": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/63095_Animation.jpg",
+            "category_image_thumb": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/thumbs/63095_Animation.jpg"
+        },
+        {
+            "cid": "2",
+            "category_name": "Comedy",
+            "category_image": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/91287_Comedy1.jpg",
+            "category_image_thumb": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/thumbs/91287_Comedy1.jpg"
+        },
+        {
+            "cid": "3",
+            "category_name": "Fashion",
+            "category_image": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/11419_fashion-images.jpg",
+            "category_image_thumb": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/thumbs/11419_fashion-images.jpg"
+        },
+        {
+            "cid": "4",
+            "category_name": "Music",
+            "category_image": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/10543_music.jpg",
+            "category_image_thumb": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/thumbs/10543_music.jpg"
+        },
+        {
+            "cid": "5",
+            "category_name": "Sports",
+            "category_image": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/26013_Sports.png",
+            "category_image_thumb": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/thumbs/26013_Sports.png"
+        }
+    ]
+}
