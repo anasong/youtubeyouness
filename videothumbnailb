@@ -1,0 +1,70 @@
+
+
+{
+  "ALL_IN_ONE_VIDEO": [
+    {
+      "id": "1",
+      "cat_id": "2",
+      "video_type": "youtube",
+      "video_title": " برامج رمضان: الحلقة 7 : كبور والحبيب 2 - Episode 7",
+      "video_url": "https://www.youtube.com/watch?v=kPHOtXwA3TE",
+      "video_id": "kPHOtXwA3TE",
+      "video_thumbnail_b": "",
+      "video_thumbnail_s": "",
+      "video_duration": "7:12",
+      "video_description": "<p>Fast and Furious!</p>\r\n",
+      "cid": "2",
+      "category_name": "Comedy",
+      "category_image": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/91287_Comedy1.jpg",
+      "category_image_thumb": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/thumbs/91287_Comedy1.jpg"
+    },
+    {
+      "id": "2",
+      "cat_id": "2",
+      "video_type": "youtube",
+      "video_title": "برامج رمضان: الحلقة 6: كبور والحبيب - Episode 6",
+      "video_url": "https://www.youtube.com/watch?v=7Dr4jzEw_C8",
+      "video_id": "7Dr4jzEw_C8",
+      "video_thumbnail_b": "",
+      "video_thumbnail_s": "",
+      "video_duration": "7:12",
+      "video_description": "<p>Fast and Furious!</p>\r\n",
+      "cid": "2",
+      "category_name": "Comedy",
+      "category_image": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/91287_Comedy1.jpg",
+      "category_image_thumb": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/thumbs/91287_Comedy1.jpg"
+    },
+    {
+      "id": "3",
+      "cat_id": "2",
+      "video_type": "youtube",
+      "video_title": "برامج رمضان: الحلقة 5 : كبور والحبيب 2 - Episode 5 HD",
+      "video_url": "https://www.youtube.com/watch?v=WgIyvdXrFL8",
+      "video_id": "WgIyvdXrFL8",
+      "video_thumbnail_b": "",
+      "video_thumbnail_s": "",
+      "video_duration": "7:12",
+      "video_description": "<p>Fast and Furious!</p>\r\n",
+      "cid": "2",
+      "category_name": "Comedy",
+      "category_image": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/91287_Comedy1.jpg",
+      "category_image_thumb": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/thumbs/91287_Comedy1.jpg"
+    },
+    {
+      "id": "4",
+      "cat_id": "2",
+      "video_type": "youtube",
+      "video_title": " برامج رمضان: الحلقة 8 : كبور والحبيب 2 - Episode 8",
+      "video_url": "https://www.youtube.com/watch?v=MnB2qFV3Hzo",
+      "video_id": "MnB2qFV3Hzo",
+      "video_thumbnail_b": "",
+      "video_thumbnail_s": "",
+      "video_duration": "7:12",
+      "video_description": "<p>Fast and Furious!</p>\r\n",
+      "cid": "2",
+      "category_name": "Comedy",
+      "category_image": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/91287_Comedy1.jpg",
+      "category_image_thumb": "http://www.viaviweb.in/envato/cc/all_in_one_videos_demo/images/thumbs/91287_Comedy1.jpg"
+    }
+  ]
+}
